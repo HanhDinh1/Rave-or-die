@@ -28,4 +28,4 @@ function generateRandomColor() {
   // Run this function every 300ms
   setInterval(changeBackground, 300);
 
-//testing testing2
+//testing testing2 testing 3
